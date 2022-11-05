@@ -1,0 +1,245 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    /* background: red; */
+}
+
+.yeni {
+    width: 305px;
+    height: 80px;
+    float: right;
+    background: #253476;
+    position: absolute;
+    left: 1044px;
+    top: 0;
+}
+
+.yeniz {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    float: right;
+    top: 20px;
+    left: 22px;
+    font-size: 17px;
+    font-family: 'Zilla Slab';
+    color: #ffff;
+}
+
+.header ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.header ul {
+    float: right;
+    margin-right: 450px;
+    margin-top: 45px;
+}
+
+.header ul li a {
+    color: #1F1F24;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 6px 18px;
+}
+.xett{
+    position: absolute;
+    width: 665px;
+    height: 0px;
+    left: 423px;
+    top: 78px;
+    border: 1px solid rgba(37, 52, 118, 0.4);
+}
+
+.xett1{
+    position: absolute;
+    width: 82px;
+    height: 0px;
+    left: 680px;
+    top: 78px;
+    border: 1px solid #27AE60;
+}
+
+.crown{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    font-size: 28px;
+    float: left;
+    left: 120px;
+    top: 36px;
+    color: #27AE60;
+}
+
+.tac{
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    background-image: url(../image/tac.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    float: left;
+    left: 187px;
+    top: 20px;
+}
+
+.img1{
+    position: absolute;
+    width: 586px;
+    height: 391.73px;
+    left: 118px;
+    top: 130px;
+    background-image: url(../image/image1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+}
+
+.gob{
+    position: absolute;
+    height: 76px;
+    width: 309px;
+    left: 755px;
+    top: 179px;
+    font-size: 35px;
+}
+.haz{
+    position: absolute;
+    height: 22px;
+    width: 164px;
+    left: 755px;
+    top: 345px;
+    border-radius: nullpx;
+}
+.deq{
+    position: absolute;
+    height: 22px;
+    width: 96px;
+    left: 943px;
+    top: 345px;
+    color: #27AE60;
+}
+.pay{
+    position: absolute;
+    height: 22px;
+    width: 53px;
+    left: 755px;
+    top: 422px;
+    color: #1F1F24;
+}
+.fb{
+    height: 21px;
+    width: 21px;
+    position: absolute;
+    background-image: url(../image/fb.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    left: 820px;
+    top: 422px;
+}
+
+.tg{
+    position: absolute;
+    height: 22px;
+    width: 22px;
+    background-image: url(../image/tg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    left: 860px;
+    top: 422px;
+}
+
+.vp{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    background-image: url(../image/vp.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    left: 905px;
+    top: 422px;
+}
+.diva{
+    position: absolute;
+    height: 299px;
+    width: 1110px;
+    left: 120px;
+    top: 506px;
+    background: #F4F5F7;
+}
+.yazi1{
+    float: left;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 17px;
+}
+.yazi2{
+    position: absolute;
+    float: left;
+    margin-top: 25px;
+    margin-left: 450px;
+    font-size: 17px; 
+}
+.image3{
+    position: absolute;
+    height: 182px;
+    width: 160px;
+    left: 125px;
+    top: 920px;
+    border-radius: 19px;
+    background-image: url(../image/Rectangle\ 76.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5px;
+}
+.imgy{
+    position: absolute;
+    width: 130px;
+    height: 10px;
+    float: left;
+    left: 180px;
+    top: 5px;
+    color: #858585;
+}
+.imgy h3{
+    color: black;
+}
+.xett2{
+    position: absolute;
+    width: 210px;
+    height: 0px;
+    left: 360px;
+    top: 650px;
+    border: 2px solid #D7D8DA;
+    transform: rotate(90deg);
+    z-index: 2;
+}
+.image4{
+    position: absolute;
+    width: 160px;
+    height: 182.86px;
+    left: 526px;
+    top: 920px;
+    background-image: url(../image/image3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5px;
+}
+.image5{
+    position: absolute;
+    width: 160px;
+    height: 182.86px;
+    left: 907px;
+    top: 920px;
+    background-image: url(../image/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5px;
+}
